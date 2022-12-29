@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_Temp_Cleaner", "Simple_Temp_Cleaner\Simple_Temp_Cleaner.csproj", "{5D26E763-3423-434B-9756-BC1FA75E1C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D26E763-3423-434B-9756-BC1FA75E1C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D26E763-3423-434B-9756-BC1FA75E1C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D26E763-3423-434B-9756-BC1FA75E1C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D26E763-3423-434B-9756-BC1FA75E1C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E47B7D82-660C-4DDF-AD67-58DD207E7C24}
+	EndGlobalSection
+EndGlobal
